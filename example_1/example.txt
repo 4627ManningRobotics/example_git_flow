@@ -1,7 +1,5 @@
 Here is a paragraph of text.  It's not a very interesting paragraph.
 
-I forgot to add another random thought here. 
-
 Here is another paragraph. It's even less interesting though I guess it
 can be argued that it's more interesting because it has multiple lines
 in it but you will not, at the end of reading it, feel like your life
